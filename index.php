@@ -7,7 +7,7 @@
     <div>
         <div id = "inner">
             
-            <form action="/index.php">
+            <form action="get">
                 
             How many passwords? <input type="text" name="passwords" size="3" maxlength = "5"><br>
             
